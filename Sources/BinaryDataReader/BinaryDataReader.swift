@@ -1,7 +1,7 @@
 import Foundation
 import BinaryUtilities
 
-public class BinaryDataReader {
+open class BinaryDataReader {
     public enum BinaryDataReaderError: Error {
         case eof
         case stringDecodingFailed
