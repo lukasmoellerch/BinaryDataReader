@@ -6,7 +6,7 @@ open class BinaryDataReader {
         case eof
         case stringDecodingFailed
     }
-    let source: BinaryDataSource
+    public let source: BinaryDataSource
     public init(dataSource: BinaryDataSource) {
         self.source = dataSource
     }
