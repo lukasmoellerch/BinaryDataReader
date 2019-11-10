@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BinaryUtilities",
+        "repositoryURL": "https://github.com/lukasmoellerch/BinaryUtilities.git",
+        "state": {
+          "branch": null,
+          "revision": "446a588c646a0663254874457f3fd40117dd9959",
+          "version": "0.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
